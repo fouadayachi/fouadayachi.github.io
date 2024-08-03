@@ -28,7 +28,7 @@ a {
 }
 
 a:hover{
-    background-color: rgb(209, 209, 209);
+    background-color: red;
 }
 
 a:nth-child(1){
